@@ -1,5 +1,8 @@
 # 📘 arXiv Pedagogy Report Generator
 
+https://paper-summarizer-ruddy.vercel.app/
+https://papersummarizer-vpnu.onrender.com/docs
+
 Convert arXiv research papers into structured, student-friendly explanations using Sarvam AI.
 
 This application downloads a research paper from arXiv, extracts its content, and generates a pedagogy-based educational report.
