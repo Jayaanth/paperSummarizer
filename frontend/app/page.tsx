@@ -10,7 +10,7 @@ export default function Home() {
   const generateReport = async () => {
     setLoading(true)
 
-    const res = await fetch("http://localhost:8000/generate-report", {
+    const res = await fetch("https://papersummarizer-vpnu.onrender.com/generate-report", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
